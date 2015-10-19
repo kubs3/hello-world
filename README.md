@@ -1,2 +1,2 @@
 # hello-world
-náš první repositář
+nějaký text testovací
